@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.8.0](https://github.com/spotify/confidence-ai-plugins/compare/v0.7.0...v0.8.0) (2026-08-13)
+
+
+### Features
+
+* add Codex marketplace.json for OpenAI plugin directory distribution ([9e8bc1d](https://github.com/spotify/confidence-ai-plugins/commit/9e8bc1dccbfa3ee70725a2aa5bebeb1faceb8f35))
+* add Codex marketplace.json for OpenAI plugin distribution ([#63](https://github.com/spotify/confidence-ai-plugins/issues/63)) ([9e8bc1d](https://github.com/spotify/confidence-ai-plugins/commit/9e8bc1dccbfa3ee70725a2aa5bebeb1faceb8f35))
+
 ## [0.7.0](https://github.com/spotify/confidence-ai-plugins/compare/v0.6.1...v0.7.0) (2026-08-03)
 
 
